@@ -1,0 +1,8 @@
+compute_environment: THIS MACHINE
+distributed_type: NO
+use_cpu: false
+dynamo_backend: NO
+use_deepspeed: false
+gpu_ids: "0"
+enable_numa_optimizations: false
+mixed_precision: 'fp16'
